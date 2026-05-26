@@ -1,0 +1,12 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+Thumbs.db
+notebooks/orijinal_*.ipynb
+models/*.keras
