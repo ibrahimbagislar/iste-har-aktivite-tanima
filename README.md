@@ -82,8 +82,6 @@ ISTE-HAR-Aktivite-Tanima/
 └── requirements.txt
 ```
 
-Ana akış GitHub'da daha temiz görünmesi için `notebooks/iste_har_aktivite_tanima.ipynb` ve `src/train_pca_mlp.py` dosyalarında sadeleştirilmiştir.
-
 ## Kurulum
 
 ```bash
